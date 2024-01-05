@@ -13,4 +13,3 @@ root.render(
     </StateProvider>
   </React.StrictMode>
 );
-
